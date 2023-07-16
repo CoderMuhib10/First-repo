@@ -1,0 +1,115 @@
+/* color all the divs -ok*/
+/* give margin,padding,border,border radius,box shadow-ok */
+/* color all the h1-ok  */
+/* color the id github-ok*/
+/* give margin,padding,border,border radius,box shadow [note: you can copy the first divs style but remember to change the colors]-ok*/
+/* increase the font size and change the font family bg color of the ol and li-ok */
+/* give nice bg and text color(red) to italic-ok */
+/* give nice bg and text color to h3-ok  */
+/* give the span a black color and the text inside that give green color-ok  */
+/* give bg color to all ul  */
+/* give the class green a black bg and green txt color  */
+/* color the id link  */
+/* color the id next */
+.exp{
+    height: 55px;
+    width: 500px;
+    padding: 15px;
+    border: 2px solid red;
+    border-radius: 30px;
+    margin-left: 830px;
+outline: none;}
+
+.exp:focus{
+  border:solid 2px red;
+}
+.btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background-color:#15df6d ;
+    border: none;
+    cursor: pointer;
+    color: rgb(32, 32, 32);
+    border: 2px solid #15df6d ;
+    font-weight: bolder;
+}
+.btn:hover {
+    box-shadow: #11e06b 5px 2px 5px 8px;
+  }
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+#Messi {
+    background-color:rgba(104, 162, 255, 0.939);
+    border: 5px dotted rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 5px;
+    box-shadow: 10px 20px 10px rgb(77, 66, 66);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+#github {
+    color: rgb(25, 25, 25);
+    background-color: aquamarine;
+    box-shadow: 20px 20px 20px black;
+    border: 5px dashed black;
+    border-radius: 10px;
+    padding: 11px;
+}
+
+#Ronado {
+    background-color: rgb(255, 82, 55);
+    border: 5px dotted rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 5px;
+    box-shadow: 10px 20px 10px rgb(77, 66, 66);
+}
+
+* {
+    margin-bottom: 25px;
+}
+
+#Neyyyyy {
+    background-color: rgba(255, 247, 10, 0.939);
+    border-left: 5px dotted rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 5px;
+    box-shadow: 10px 20px 10px rgb(77, 66, 66);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+ol{
+   
+    font-family: lato;
+    font-size: 24px;
+}
+i{color: red; background-color: rgba(135, 53, 218, 0.484);}
+
+h3{
+    color: cyan;
+    background-color: rgb(195, 86, 98);
+}
+.green{
+    background-color: black;
+    color: green;
+}
+span{
+    background-color: black;
+    color: rgb(0, 129, 19);
+}
+ul{
+color: green;}
+ul{color: rgb(148, 0, 0);}
+kbd{color: gray;
+background-color: black;}
+.one{background-color: blueviolet;}
